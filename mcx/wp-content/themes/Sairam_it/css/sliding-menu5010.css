@@ -1,0 +1,86 @@
+/*! =========================================================
+ * Sliding Menu v0.2.0
+ * http://github.danielcardoso.net/sliding-menu/
+ * ==========================================================
+ * Copyright (c) 2014-2015 DanielCardoso.net.
+ * Licensed under MIT.
+ * ======================================================== */
+.sliding-menu {
+    position: relative;
+    background: #013161;
+    overflow: hidden;
+}
+.sliding-menu-panel {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 100%;
+    padding: 0;
+}
+.sliding-menu li {
+    border-bottom: 1px solid #02214d;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+.sliding-menu li a {
+    border: medium none;
+    color: #ffffff;
+    display: block;
+    font-family: lato-regular;
+    font-size: 15px;
+    line-height: 25px;
+    outline: medium none;
+    padding: 0.8em 2em;
+    text-decoration: none;
+    position: relative;
+}
+.sliding-menu li a:hover {
+    background: #002955 none repeat scroll 0 0;
+    border: medium none;
+    color: #ffffff;
+}
+.sliding-menu .active a {
+    color: #fff;
+    background: #002955;
+    border: none;
+}
+
+.sliding-menu .sliding-menu-nav::before {
+    background: #002955 none repeat scroll 0 0;
+    content: "\f105";
+    float: right;
+    font-family: FontAwesome;
+    font-size: 25px;
+    margin-left: 1em;
+    padding: 15px 22px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+
+.sliding-menu .sliding-menu-back {
+    color: #fff;
+    background: #013161;
+}
+.sliding-menu .sliding-menu-back:before {
+    float: left;
+    margin-right: 0em;
+    content: "\f104";
+}
+.sliding-menu .sliding-menu-icon {
+    margin-right: .4em;
+}
+.sliding-menu .sliding-menu-separator {
+    margin: .4em 1em;
+    border-top: 2px solid #555;
+}
+
+.menu_list {
+    background: #013161 none repeat scroll 0 0;
+    height: 100vh;
+}

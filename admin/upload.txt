@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS `galaxy_attendance` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `company_id` int(11) NOT NULL,
+  `user_id` int(11) NOT NULL,
+  `date` date NOT NULL,
+  `time_in` varchar(10) NOT NULL,
+  `time_out` varchar(10) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+
+alter table galaxy_project add date date not null;
+alter table galaxy_rights add date date not null;
