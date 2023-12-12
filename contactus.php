@@ -199,12 +199,12 @@ if(isset($_POST['submit']))
 										<div class="col-sm-6 col-md-3">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
                         <div class="team-img">
-                            <img class="img-responsive" src="images/chellathurai.jpg" alt="">
+                        <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-                         <h4>T.Chellathurai</h4>
+                         <h4>T. Kannan</h4>
                             <span>President</span><br />
-                            <span>8903211538</span><br />
+                            <span>9443536278</span><br />
 
 							<p>
 						  
@@ -225,9 +225,9 @@ if(isset($_POST['submit']))
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-                           <h4>T. Manogaran</h4>
+                           <h4>V. Rajasuntharam</h4>
                             <span>Vice President</span><br />
-                            <span>9443587282</span><br />
+                            <span>9994720638</span><br />
 							<p>
 						   </p>
 						   
@@ -241,15 +241,15 @@ if(isset($_POST['submit']))
                         
                     </div>
                 </div>
-											<div class="col-sm-6 col-md-3">
+					<div class="col-sm-6 col-md-3">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
                         <div class="team-img">
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-                          <h4>V. Rajasundaram </h4>
+                          <h4>S. Jeyaraj </h4>
                             <span>Vice President</span><br />
-                            <span>9442831255</span><br />
+                            <span>9715435797</span><br />
 							<p>
 						   
 						   </p>
@@ -263,13 +263,35 @@ if(isset($_POST['submit']))
                         
                     </div>
                 </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="images/main.jpg" alt="">
+                        </div>
+                        <div class="team-info">
+                           <h4>S. Suresh</h4>
+                            <span>Vice President</span><br />
+                            <span>8220532140</span><br />
+							<p>
+						   </p>
+						   
+							<a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
+                             <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
+                             <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
+						
+                             <a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
+                        </div>
+                        <p></p>
+                        
+                    </div>
+                </div>
 							<div class="col-sm-6 col-md-3">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
                         <div class="team-img">
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-                           <h4>S. Kannan</h4>
+                           <h4>C. Manikandan</h4>
                             <span>Secretary</span><br />
                             <span>9500696123</span><br />
 							<p>
@@ -293,9 +315,9 @@ if(isset($_POST['submit']))
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-                           <span>C. Manikandan</span><br />
-                            <span>Vice Secretary</span><br />
-							<span>9042126463</span>
+                           <h4>V. Jeyaramesh</h4>
+                            <span>Secretary</span><br />
+							<span>8012618085</span><br />
                         </div>
                         <p>
 						</p>
@@ -314,9 +336,9 @@ if(isset($_POST['submit']))
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-                           <span>N. Manikadal</span><br />
-                            <span>Vice Secretary</span><br />
-                           <span>9442831255</span>
+                           <h4>R. Rajakumar I.R.E</h4>
+                            <span>Secretary</span><br />
+                           <span>9486855571</span><br />
 						   <p>
 						   
 						   </p>
@@ -336,9 +358,9 @@ if(isset($_POST['submit']))
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-                          <span>S. Suresh</span><br />
-                            <span>Vice Secretary</span><br />
-                            <span>7598556766</span>
+                          <h4>S.R. Rejil Kumar</h4>
+                            <span>Secretary</span><br />
+                            <span>8760537083</span><br />
 							<p>
 						   
 						   </p>
@@ -358,9 +380,9 @@ if(isset($_POST['submit']))
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-						  <span>P. Vaikundamani</span><br />
-                          <span>Vice Secretary</span><br />
-						  <span>9443587282</span>
+						  <h4>M. Neelakandan</h4>
+                          <span>Secretary</span><br />
+						  <span>8973331490</span><br />
 							<p>
 						 
 						   </p>
@@ -375,21 +397,63 @@ if(isset($_POST['submit']))
                         
                     </div>
                 </div>
+                
+							<div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="images/main.jpg" alt="">
+                        </div>
+                        <div class="team-info">
+						  <h4>R. Manikandan</h4>
+                          <span>Secretary</span><br />
+						  <span>6379192079</span><br />
+							<p>
+						 
+						   </p>
+						   
+							<a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
+                             <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
+                             <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
+						
+                             <a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
+                        </div>
+                        <p></p>
+                        
+                    </div>
                 </div>
-    </section>
-	<br/>
-	<section id="get-in-touch">
-        <div class="container">
-            
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="images/main.jpg" alt="">
+                        </div>
+                        <div class="team-info">
+						  <h4>T. Thanam</h4>
+                          <span>Treasurer</span><br />
+						  <span>7418480562</span><br />
+							<p>
+						 
+						   </p>
+						   
+							<a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
+                             <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
+                             <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
+						
+                             <a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
+                        </div>
+                        <p></p>
+                        
+                    </div>
+                </div>
+               
 			<div class="col-sm-6 col-md-3">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
                         <div class="team-img">
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-                           <span>T Kannan</span><br />
-                            <span>Treasurer</span><br />
-							<span>9443587282</span>
+                           <h4>A.P. Rajan B.A.,LLB</h4>
+                            <span>Legal Advisor</span><br />
+							
                         </div>
                         <p>    </p>
                         <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
@@ -399,347 +463,71 @@ if(isset($_POST['submit']))
                        <a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
                     </div>
                 </div>
+                </div>
+                </section>
+	<br/>
+    <hr>
+
+    <section id="get-in-touch">
+        <div class="container">
+		<div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">Old President</h2>
+               <br />
+            </div>
+            <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="images/chellathurai.jpg" alt="">
+                        </div>
+                        <div class="team-info">
+						  <h4>T. Chellathurai</h4>
+                          <span>Treasurer</span><br />
+						  <span>8903211538
+</span><br />
+							<p>
+						 
+						   </p>
+						   
+							<a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
+                             <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
+                             <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
+						
+                             <a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
+                        </div>
+                        <p></p>
+                        
+                    </div>
+                </div>
+
+
                 <div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/galaxy-kannan.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>Galaxy Kannan</span><br />
-                            <span>Executive member</span><br />
-                           <span>9344332244</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div><div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>B. Ajiesh</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
+                   
                 </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>D. Vinoth Kumar</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
+
+                <div class="col-sm-6 col-md-3">
+                  
                 </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>V. Jaya Ramesh</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
+
+                <div class="col-sm-6 col-md-3">
+                    
                 </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>T. Nadarajan</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
                 </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>M. Murugan</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>T. Senthil Kumar</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>T.Raja</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>C. Thangavel</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>T. Raja Mani</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>R. Rajan</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>M. Neelakandan</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>A. Siva Linkam</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>R. Gopi Kumar</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>T. Thiraviam</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>R. Vijian</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>S. Ajith</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>B. Nishanth</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div>
-<div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                           <span>S.Kumar</span><br />
-                            <span>Executive member</span><br />
-                           <span>9442831255</span>
-						   <p></p>
-                        <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
-                        <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
-                        <a href="https://plus.google.com/u/1/109689793321194989736"><img src="images/so/g.png"></a>&nbsp;
-			<a href="https://in.linkedin.com/in/galaxykannan"><img src="images/so/l.png"></a>
-                        </div>
-                        <p></p>
-                      </div>
-                </div><hr>
+                </section>
+	<br/>
+
+               
+
+
+                
+            
+              
+
+
+
+
+
+                
+                <hr>
 				            <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Web Designer </h2>
                <br />
@@ -752,7 +540,7 @@ if(isset($_POST['submit']))
                         <div class="team-info">
 						 <h4>Galaxy Kannan</h4>
                             <span>Web Designer</span><br />
-                            <span>9443587282</span>
+                            <span>9443587282</span><br />
 							<p>
 						    Galaxy Technology Park Pvt Ltd 
 						   </p>
@@ -774,12 +562,10 @@ if(isset($_POST['submit']))
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-						 <h4>Galaxy Kannan</h4>
+						 <h4>T. Thanam</h4>
                             <span>Web Designer</span><br />
-                            <span>9443587282</span>
-							<p>
-						    Galaxy Technology Park Pvt Ltd 
-						   </p>
+                            <span>7418480562</span><br />
+							
                           
 						   <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
                             <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
@@ -797,12 +583,10 @@ if(isset($_POST['submit']))
                             <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
-						 <h4>Galaxy Kannan</h4>
+						 <h4>S. Kannan</h4>
                             <span>Web Designer</span><br />
-                            <span>9443587282</span>
-							<p>
-						    Galaxy Technology Park Pvt Ltd 
-						   </p>
+                            <span>9500696123</span><br />
+							
                           
 						   <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
                             <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
@@ -817,15 +601,14 @@ if(isset($_POST['submit']))
 <div class="col-sm-6 col-md-3">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
                         <div class="team-img">
-                            <img class="img-responsive" src="images/main.jpg" alt="">
+                            <img class="img-responsive" src="images/chellathurai.jpg" alt="">
                         </div>
                         <div class="team-info">
-						 <h4>Galaxy Kannan</h4>
+						 <h4>T. Chellathurai</h4>
                             <span>Web Designer</span><br />
-                            <span>9443587282</span>
-							<p>
-						    Galaxy Technology Park Pvt Ltd 
-						   </p>
+                            <span>8903211538
+</span><br />
+							
                           
 						   <a href="https://www.facebook.com/Galaxykannan"><img src="images/so/f.png"></a>&nbsp;
                             <a href="https://twitter.com/galaxykannangtp"><img src="images/so/t.png"></a>&nbsp;
