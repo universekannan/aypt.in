@@ -284,6 +284,44 @@ Swami Vivekananda (Sanskrit: स्वामी विवेकानन्द; 
 		</div>
 	    </div>
              </div>
+			 <div class="col-md-4 isotope-item android-apps">
+	<div class="image-box">
+		<div class="overlay-container">
+			<a><center><img src="images/Hindu-Dharma-Parishad-Trust.png" data-toggle="modal" data-target="#p9"></center><br/><center> 
+</center></a>
+<center><h3><b>ஹிந்து தர்மபேரவை அறகட்டளை</b></h3><br /><br /></center>
+		</div>
+		
+	</div>
+	<!-- Modal -->
+	<div class="modal fade" id="p9" tabindex="-1" role="dialog" aria-labelledby="android-games-label" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+					<h4 class="modal-title" id="android-games-label">ஹிந்து தர்மபேரவை அறகட்டளை</h4>
+				</div>
+				<div class="modal-body">
+					<h4 style="color: #080101">ஹிந்து தர்மபேரவை அறகட்டளை</h4>
+                                  <center><img src="images/hindu.jpg" alt=""></center>
+					<h4 style="color: #080101"></h4>
+<p style="color: #080101">ஹிந்து தர்ம பேரவை சார்பில் மாணவர்கள் மற்றும் ஏழை தாய்மார்களுக்கு நல உதவி வழங்கும் நிகழ்ச்சியில் வெள்ளிமலை சுவாமி சைதன்யானந்த ஜி மஹராஜ் அவர்கள் கலந்து கொண்டு வாழ்த்துரை கூறி மாணவர்களுக்கு பரிசு மற்றும் நல உதவி வழங்கி வாழ்த்தி உள்ளார்கள், இரணியல்  காவல்நிலைய உதவி காவல் ஆய்வாளர் மரியாதைக்குரிய திரு.சுந்தர் மூர்த்தி அவர்கள் கலந்து கொண்டு நல உதவி வழங்கி உள்ளார்கள்.
+</br>
+</br>
+24/10/2021 நமது ஹிந்து தர்ம பேரவை சார்பாக 105 மாணவர்களுக்கும் 50 விதவை தாய்மார்களுக்கும் நல உதவி வழங்கும் நிகழ்ச்சி சிறப்பாக நடைபெற்றது
+</p>
+  
+
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	    </div>
+             </div>
+			 
+			 
 			  <div class="col-md-4 isotope-item android-apps">
 	<div class="image-box">
 		<div class="overlay-container">
@@ -400,9 +438,9 @@ Kamaraj removed the family vocation based Hereditary Education Policy introduced
 		</div>
 	    </div>
              </div>
-			 <div class="col-md-4 isotope-item android-apps">
-			 <div class="image-box">
-	    </div></div>
+			 
+		
+		
 <div class="col-md-4 isotope-item android-apps">
 	<div class="image-box">
 		<div class="overlay-container">

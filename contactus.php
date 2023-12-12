@@ -767,11 +767,11 @@ if(isset($_POST['submit']))
                         
                     </div>
                 </div>
-							
+						
 <div class="col-sm-6 col-md-3">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
                         <div class="team-img">
-                            <img class="img-responsive" src="images/galaxy-kannan.jpg" alt="">
+                            <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
 						 <h4>Galaxy Kannan</h4>
@@ -794,7 +794,7 @@ if(isset($_POST['submit']))
 <div class="col-sm-6 col-md-3">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
                         <div class="team-img">
-                            <img class="img-responsive" src="images/galaxy-kannan.jpg" alt="">
+                            <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
 						 <h4>Galaxy Kannan</h4>
@@ -817,7 +817,7 @@ if(isset($_POST['submit']))
 <div class="col-sm-6 col-md-3">
                     <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
                         <div class="team-img">
-                            <img class="img-responsive" src="images/galaxy-kannan.jpg" alt="">
+                            <img class="img-responsive" src="images/main.jpg" alt="">
                         </div>
                         <div class="team-info">
 						 <h4>Galaxy Kannan</h4>

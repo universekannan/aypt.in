@@ -1,15 +1,10 @@
 <!doctype html>
-<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<html lang="en">
 <head>
     <title>Arulmigu Yoga Parameswarar Temple</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="format-detection" content="telephone=no"/>
     <link rel="icon" href="images/favicon.png" type="image/x-icon">
 	<meta name="viewport" content="width = 1050, user-scalable = no" />
@@ -32,6 +27,11 @@
 			<div style="background-image:url(pages/9.jpg)"></div>
 			<div style="background-image:url(pages/10.jpg)"></div>
 			<div style="background-image:url(pages/11.jpg)"></div>
+			<div style="background-image:url(pages/12.jpg)"></div>
+			<div style="background-image:url(pages/13.jpg)"></div>
+			<div style="background-image:url(pages/14.jpg)"></div>
+			<div style="background-image:url(pages/15.jpg)"></div>
+			<div style="background-image:url(pages/16.jpg)"></div>
 		</div>
 	</div>
 </div>

@@ -88,7 +88,7 @@
                 <div class="col-sm-12">
 				<center> 
 <h2 style="color: #7c180f">திருவிழா  மற்றும் பஜனை பட்டாபிஷேக விழா  
- <br/>23/12/2019 to 29/12/2019 <a href="add/index.php" target="_blank"><img src="images/click-here.gif" style="width:5%;"/></a>
+ <br/>24/12/2023 to 31/12/2023 <a href="add/index.php" target="_blank"><img src="images/click-here.gif" style="width:5%;"/></a>
 </h2>
 <!--<h2 style="color: #7c180f">அஷ்டபந்தன  மஹா  கும்பாபிஷேகம்  
  <br/>8/5/2029 6 AM to 7.30 AM</h2>-->
