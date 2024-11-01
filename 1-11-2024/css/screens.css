@@ -1,0 +1,170 @@
+
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+	.homeHigh1Lb11{
+		font-size:30px;
+	}
+
+	.homeHigh1Lb12{
+		font-size:18px;
+	}
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+	.homeHigh1Lb11{
+		font-size:24px !important;
+	}
+
+	.homeHigh1Lb12{
+		font-size:14px !important;
+	}
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+	.topTOGYear{
+		font-size:18px;
+		padding-top:15px;
+	}
+	
+	.topTOGSlogan{
+		font-size:28px;
+		padding-top:5px;
+	}
+	
+	.homeHigh1Lb11{
+		font-size:24px !important;
+	}
+
+	.homeHigh1Lb12{
+		font-size:16px !important;
+	}
+	
+	.homeChristianSongs{
+		padding:0px;
+	}
+	
+	.homeMainLbl1{
+		font-size:14px;
+	}
+	
+	.homeMainLbl2{
+		font-size:20px;
+	}
+	
+	.homeMainLink1{
+	
+	}
+	
+	.homeSubscribeInp{
+		font-size:18px;
+	}
+
+	.homeSubscribeLbl{
+		font-size:14px !important;
+	}
+	
+	
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 940px) {
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+	.logo {
+		text-align:center !important;
+	}
+	
+	.logo img{
+		width:auto !important;
+		text-align:center !important;
+	}
+	
+	.topTOG{
+		text-align:center !important;
+		margin-top:10px;
+		border-top:1px solid #4cb7cc;
+		padding-top:5px;
+	}
+	.topTOGYear{
+		font-size:18px;
+		padding-top:15px;
+	}
+	
+	.topTOGSlogan{
+		font-size:28px;
+		padding-top:5px;
+	}
+	
+	.homePrayerRequest{
+		border-right:none !important;
+	}
+	
+	.homeMonMess{
+		border-right:none !important;	
+	}
+	
+	.homeMagOnline{
+		border-right:none !important;
+	}
+	
+	.homeChristianCont, .homeChristianSongs, .homeScheduleCont{
+		padding:0px !important;
+		margin-bottom:20px;
+	}
+	
+	.homeSubscribeLbl{
+		font-size:14px !important;
+	}
+	
+	.homeSubscribeBtn{
+		margin-top:10px;
+	}
+	
+	.homeShoppingRight{
+		margin-top:20px;
+	}
+	
+	.homeProfileLbl2{
+		font-size:30px;
+	}
+	
+	.audioPrayerImg img{
+		width:auto !important;
+	}
+	
+	.websitesRight{
+		padding:0px !important;
+		margin-top:5px;
+	}
+	
+	.subPageMainCont{
+		padding:10px 5px !important;
+	}
+	
+	.guestBookHeadRight{
+		text-align:left;
+	}
+	
+}
+.ministryMenuRight{
+        padding-left:0px !important;
+    }
+ .indexVideoFeed{
+        margin-top:30px;
+    }
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+	.logo img{
+		width:100% !important;
+		text-align:center;
+	}
+}
+
+@media (max-width: 280px) {
+
+}

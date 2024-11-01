@@ -1,0 +1,2022 @@
+@font-face {
+    font-family: 'droid_sansregular';
+    src: url('droidsans-webfont.eot');
+    src: url('droidsans-webfont.eot?#iefix') format('embedded-opentype'),
+         url('droidsans-webfont.woff2') format('woff2'),
+         url('droidsans-webfont.woff') format('woff'),
+         url('droidsans-webfont.ttf') format('truetype'),
+         url('droidsans-webfont.svg#droid_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Custom Style Sheet */
+
+
+html{
+	height: 100% !important;
+}
+
+body{
+	height: 100% !important;
+	font-family:'droid_sansregular', sans-serif;
+	line-height:22px;
+	font-size: 13px;
+	background: #FFA300;
+	
+}
+
+h1, h2, h3, h4, h5, h6{
+	
+}
+p{
+	text-align:justify;
+}
+
+.error{
+	color:#ff0000;
+}
+
+/* Websites Starts Here */
+.websiteContainer{
+
+}
+
+.websiteContainerRow{
+	margin:0px !important;
+}
+
+.websiteOdd{
+	padding:60px 20px;
+	background-color:#455560;
+	text-align:center;
+}
+
+.websiteEven{
+	padding:60px 20px;
+	background-color:#2a3944;
+	text-align:center;
+}
+
+.websiteHead1{
+	width:100%;
+	color:#aaaaaa;
+	font-size:20px;
+	padding-bottom:15px;
+	float:left;
+	clear:left;
+	
+}
+
+.websiteHead2{	
+	width:100%;
+	color:#aaaaaa;
+	font-size:20px;
+	padding-bottom:20px;
+	float:left;
+	clear:left;
+}
+
+.websiteLink a{
+	color:#fff;
+}
+
+/* Footer Menu Starts Here */
+.footerMenuSec{
+	padding-top:40px;
+	padding-bottom:40px;
+	background:#f4f4f4;
+	font-size:12px;
+}
+
+.footerMenuHead1{
+	font-size:18px;
+	color:#111111;
+}
+
+.footerMenuHead{
+	margin-top:30px;
+	font-size:18px;
+	color:#111111;
+}
+
+.footerMenuSec li{
+	padding-top:5px;
+}
+
+.footerMenuSec a{
+	color:#111111;
+}
+/* Footer Menu Ends Here */
+
+/*Footer Address Section */
+.footerAddressSection{
+	background:#7c180f;
+	border-top:1px solid #d9d9d9;
+	border-bottom:1px solid #d9d9d9;
+	padding:20px 0px 40px 0px;
+}
+
+.footerPhoneNos{
+	padding-left:0px !important;
+}
+
+.footerAddressPhNoHead{
+	margin-top:20px !important;
+	color:#111;
+}
+
+/* Copyright Section */
+.copyrightSection{
+	padding:30px 0px;
+}
+
+.copyrightSection p{
+	text-align:center;
+	margin-bottom:0px;
+	padding-bottom:0px;
+}
+
+/* Header Style Starts Here */
+.topSelectLan, .topSelectLanItems{
+	float:right;
+}
+
+.topSelectLanItems{
+	padding-left:5px;
+}
+
+.topSelectLanItems select{
+	border:1px solid #ddd;
+}
+
+.topLine{
+	height:40px;
+	padding-top:8px;
+}
+
+.topSlogan{
+	padding-left:0px !important;
+}
+
+.topOnlineBible{
+	text-align:left;
+}
+
+.topOnlineBible a{
+	padding-top:2px !important;
+	padding-bottom:2px !important;
+}
+
+.topSocial{
+	padding:0px !important;
+	margin:0px !important;
+	float:left;
+}
+
+.topSocial li{
+	padding:0px 1px 0px 0px!important;
+	margin:0px !important;
+}
+
+.topFacebook a{
+	width:24px;
+	height:24px;
+	text-indent:-100000px;
+	background:url(../images/facebookIcon.png) no-repeat;
+	float:left;
+}
+
+.topTwitter a{
+	width:24px;
+	height:24px;
+	text-indent:-100000px;
+	background:url(../images/twitterIcon.png) no-repeat;
+	float:left;
+}
+
+.topGoogle a{
+	width:24px;
+	height:24px;
+	text-indent:-100000px;
+	background:url(../images/googleIcon.png) no-repeat;
+	float:left;
+}
+
+.topGooglePlus a{
+	width:24px;
+	height:24px;
+	text-indent:-100000px;
+	background:url(../images/gplusIcon.png) no-repeat;
+	float:left;
+}
+
+.topYoutube a{
+	width:24px;
+	height:24px;
+	text-indent:-100000px;
+	background:url(../images/youtubeIcon.png) no-repeat;
+	float:left;
+}
+
+.topApple a{
+	width:24px;
+	height:24px;
+	text-indent:-100000px;
+	background:url(../images/appleIcon.png) no-repeat;
+	float:left;
+}
+/* Header Style Ends Here */
+
+/* Top Menu Starts Here */
+.menuLine{
+	background:#7c180f;
+	border-bottom:1px solid #667080;
+
+}
+
+.topnavBar{
+	margin:0px !important;
+	background:transparent !important;
+}
+
+#myNavBar a{
+	font-size:14px;
+}
+
+.navbar-nav{
+	width:100%;
+}
+
+.topMeuHome{
+	padding-top:13px;
+}
+
+.topMeuHome a{
+	width:21px;
+	height:20px;
+	background:url(../images/homeIcon.png) no-repeat;
+	padding-top:0px !important;
+	padding-bottom:0px !important;
+	text-indent:-10000px;
+	float:left;
+}
+
+.topMeuHome a:hover{
+	background:url(../images/homeIcon.png) no-repeat !important;
+}
+
+
+
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover{
+	background:#fff !important;
+}
+
+.nav > li > a:focus, .nav > li > a:hover{
+	background:#fff;
+}
+
+.dropdown-menu{
+	border:none !important;
+	box-shadow:none !important;
+	margin:0px !important;
+	padding:0px !important;
+}
+
+#myNavBar .menuDropDown a{
+	width:100%;
+	font-size:12px !important;
+	border-top	:1px solid #eee;
+	padding-top:8px;
+	padding-bottom:8px;
+	float:left;
+	clear:left;
+}
+
+#myNavBar .menuDropDown a:hover{
+	background-color:transparent !important;
+	color:#fa6900 !important;
+	text-decoration:none !important;
+	
+}
+
+#myNavbarbar .menuDropDown a:hover{
+	background-color:transparent !important;
+	color:#fa6900 !important;
+	text-decoration:none !important;
+	
+}
+
+.topMenuDonation{
+	color:#fff !important;
+	float:right !important;
+}
+
+.topMenuDonation a{
+	background:#fa6900 !important;
+	color:#fff !important;
+}
+
+.topMenuDonation a:hover{
+	background:#fff !important;
+	color:#fa6900 !important;
+}
+
+.ministryMenu{
+	width:440px;
+	padding:20px !important;
+}
+
+.ministryMenuLeft{
+	width:200px;
+	float:left;
+}
+
+.ministryMenuRight{
+	width:200px;
+	padding-left:25px;
+	float:left;
+}
+
+.websitesMenu{
+	width:340px;
+	padding:20px !important;
+}
+
+.websitesMenuLeft{
+	width:200px;
+	float:left;
+}
+
+.websitesMenuRight{
+	width:100px;
+	padding-left:25px;
+	float:left;
+}
+
+
+.menuLine.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:100000;
+}
+/* Top Menu Ends Here */
+
+/* Logo Line Starts Here */
+.logoLine{
+	background:#ecd991;
+	border-top:1px solid #56bace;
+	padding:20px 0px;
+}
+
+.logo img{
+	width:100%;
+}
+
+.topTOG{
+
+}
+
+.topTOGYear{
+	width:100%;
+	font-size:24px;
+	padding-top:15px;
+	text-decoration:underline;
+	color:#fff;
+	float:left;
+	clear:left;
+}
+
+.topTOGSlogan{
+	width:100%;
+	font-size:32px;
+	padding-top:10px;
+	color:#fff;
+	float:left;
+	clear:left;
+}
+/* Logo Line Ends Here */
+
+/* Home Banner Starts Here */
+.homeBannerBg{
+	height:450px;
+	background:url(../images/bannerBg.jpg) no-repeat;
+	border-bottom:1px solid #667080;
+}
+/* Home Banner Ends Here */
+
+/* Home Content Starts Here */
+.homeMainContent{
+	margin-bottom:30px;
+	background-color:#7c180f;
+	
+}
+
+.homeContentCont{
+	border:1px solid #6cd3e7;
+	margin-top:30px;
+	border-bottom:1px solid #3dafc6;
+}
+
+.homeContHeadLine{
+	border-bottom:1px solid #6cd3e7;
+	padding-left:89px;
+	font-size:18px;
+	color:#28b2ce;
+	padding-top:25px;
+}
+
+.homeContLine{
+	min-height:150px;
+}
+
+.homeScripture{
+	height:69px;
+	padding-left:69px;
+	background:url(../images/homeScripture.png) no-repeat;
+	padding-top:0px !important;
+	border-bottom:1px solid #6cd3e7;
+	font-size:18px;
+	color:#28b2ce;
+}
+
+.homeScripture .nav-tabs{
+	border:none !important;
+}
+
+.homeScripture a{
+	padding-top:21px !important;
+	padding-bottom:21px !important;
+	border-radius: 0px !important;
+	border:0px !important;
+	border-right:1px solid #6ad3e8 !important;
+	color:#6ad3e8 !important;
+}
+
+.homeScripture .active a{
+	background-color:#6ad3e8 !important;
+	color:#fff !important;
+}
+
+
+.homeScriptureCont{
+	padding:20px;
+	text-align:left !important;
+}
+
+.homeScriptureCont p{
+	text-align:left !important;
+}
+
+.homeEvents{
+	height:69px;
+	background:url(../images/homeEvents.png) no-repeat;
+}
+
+.homeEventsCont{
+	margin:20px !important;
+	min-height:110px !important;
+}
+
+.homeEventsCont ul, .homeEventsCont ul li{
+	list-style-type:none;
+	list-style:none;
+	padding-left:0px !important;
+}
+
+.homeNextLive{
+	height:69px;
+	background:url(../images/homeNextLive.png) no-repeat;
+}
+
+
+.homeNextLiveCont{
+	margin:20px !important;
+	min-height:110px !important;
+}
+
+.homeNextLiveCont ul, .homeNextLiveCont ul li{
+	list-style-type:none;
+	list-style:none;
+	padding-left:0px !important;
+}
+
+.homeBlessing{
+	height:69px;
+	background:url(../images/homeBlessingPlans.png) no-repeat;
+}
+
+.homeBlessingCont{
+	padding:20px;
+}
+
+.homeBlessingLinks1{
+	padding:8px 20px 7px 20px;
+}
+
+.homeBlessingLinks{
+	padding:8px 20px 7px 20px;
+	border-top:1px solid #6cd3e7;
+}
+
+.homeLatest{
+	height:69px;
+	background:url(../images/homeLatestNews.png) no-repeat;
+}
+
+.homeLatestCont{
+	margin:20px !important;
+	min-height:110px !important;
+}
+
+.homeLatestCont ul, .homeLatestCont ul li{
+	list-style-type:none;
+	list-style:none;
+	padding-left:0px !important;
+}
+
+.homeOtherLinksCont{
+	border:1px solid #6cd3e7;
+	margin-top:30px;
+	border-bottom:1px solid #3dafc6;
+	background:#c1f0fa;
+}
+
+.homeOtherLinks1{
+	padding:16px 20px 16px 20px;
+}
+
+.homeOtherLinks{
+	padding:16px 20px 16px 20px;
+	border-top:1px solid #6cd3e7;
+}
+
+.homeHighlightsMain{
+	background:#69d2e7;
+	padding:20px;
+	margin-bottom:40px;
+}
+
+.homePrayerRequest{
+	padding-left:65px;
+	height:69px;
+	background:url(../images/homePrayerReq.png) no-repeat;
+	border-right:2px solid #4fc5dc;
+}
+
+.homeMonMess{
+	padding-left:80px;
+	height:69px;
+	background:url(../images/homeMonthlyMessage.png) no-repeat 0px 5px;
+	border-right:2px solid #4fc5dc;
+}
+
+.homeMagOnline{
+	padding-left:75px;
+	height:69px;
+	background:url(../images/homeMagazine.png) no-repeat 0px 5px;
+	border-right:2px solid #4fc5dc;
+}
+
+.homePromDay{
+	padding-left:75px;
+	height:69px;
+	background:url(../images/homePromise.png) no-repeat 0px 8px;
+}
+
+.homeHigh1Lb11{
+	padding-top:10px;
+	color:#fff;
+	float:left;
+	clear:left;
+}
+
+.homeHigh1Lb12{
+	padding-top:7px;
+	color:#fff;
+	float:left;
+	clear:left;
+}
+
+.homeContentCont2All{
+	margin-bottom:40px;
+}
+
+.homeContentCont2{
+	background:#f38630;
+	padding:55px 20px 65px 20px;
+	text-align:center;
+	border:1px solid #fa6900;
+	overflow:auto;
+}
+
+.homeChristianCont{
+	padding-left:0px;
+}
+
+.homeScheduleCont{
+	padding-right:0px;
+}
+
+
+
+.homeMainLbl1{
+	width:100%;
+	font-size:20px;
+	color:#fff;
+	text-align:center;
+	float:left;
+	clear:left;
+}
+
+.homeMainLbl2{
+	width:100%;
+	font-size:28px;
+	color:#fff;
+	margin-top:10px;
+	text-align:center;
+	float:left;
+	clear:left;
+}
+
+.homeMainLink1{
+	width:100%;
+	font-size:14px;
+	margin-top:25px;
+	color:#fff;
+	text-align:center;
+	float:left;
+	clear:left;
+}
+
+.homeMainLink1 a{
+	color:#fff !important;
+	text-decoration:underline;
+}
+
+.homeHighlights2Row{
+	margin-bottom:40px;
+}
+
+.homeHighlights2{
+	padding-left:0px !important;
+	padding-right:40px !important;
+	border-left:1px solid #555555;
+}
+
+.homeHigh2Lb11{
+	padding-left:20px;
+	padding-bottom:10px;
+	border-bottom:1px solid #555555;
+	font-size:28px;
+	color:#fa6900;
+}
+
+.homeHigh2Lb12{
+	padding-left:20px;
+	padding-top:10px;
+	font-size:16px;
+	color:#111111;
+}
+
+.homeSubscribeLine{
+	border-top:1px solid #b6b6b6;
+	border-bottom:1px solid #b6b6b6;
+	padding:8px 0px;
+	margin-bottom:40px;
+}
+
+.homeSubscribe{
+	padding:12px;
+	background:#455560;
+	text-align:center;
+	overflow:auto;
+}
+
+.homeSubscribeLbl{
+	color:#fff;
+	font-size:24px;
+	padding-top:10px;
+	float:left;
+}
+
+.homeSubscribeInp{
+	float:left;
+}
+
+.homeSubscribeInp input{
+	width:100%;
+	padding:0px 20px;
+	height:44px;
+}
+
+.homeSubscribeBtn{
+	text-align:left;
+	color:#fff;
+	float:left;
+}
+
+.homeSubscribeBtn input{
+	background:none !important;
+	border:2px solid #f3ea61;
+	padding-left:25px;
+	padding-right:25px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	height:44px;
+}
+
+
+.shoppingProfileContainer{
+	background:url(../images/homeShoppingBg1.jpg) top center repeat;
+	overflow:auto;
+}
+
+.homeShoppingCont{
+	background:#f38630;
+	padding:80px 0px;
+	min-height:432px;
+	opacity:0.9;
+	overflow:auto;
+}
+
+.homeShoppingLeftLbl{
+	font-size:24px;
+	font-weight:bold;
+	color:#fff;
+	padding-bottom:30px;
+	overflow:auto;
+}
+
+.homeShoppingLeftImg{
+	padding-bottom:30px;
+	border-bottom:1px solid #fff;
+}
+
+.homeShoppingLeftImg img{
+	width:100%;
+}
+
+.homeShoppingLeftLink{
+	margin-top:30px;
+}
+
+.homeShoppingLeftLink a{
+	border:2px solid #fff;
+	padding:12px 35px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	color:#fff;
+	font-size:24px;
+}
+
+.homeShoppingLeftLink a:hover{
+	background:#fff;
+	color:#111;
+}
+
+.homeShoppingRight{
+	padding-right:0px !important;
+}
+
+.homeShoppingLink{
+	width:100%;
+	margin-bottom:25px;
+	float:left;
+	clear:left;	
+}
+
+.homeShoppingLink a{
+	color:#fff;
+	background:url(../images/homeShoppingLogo.png) no-repeat;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:40px;
+	font-size:16px;
+}
+
+.homeProfileCont{
+	font-family:'calibri';
+	background:#69d2e7;
+	padding:80px 30px;
+	min-height:300px;
+	opacity:0.9;
+}
+
+.homeProfileLbl1{
+	padding-bottom:10px;
+	color:#555555;
+	font-size:24px;
+}
+
+.homeProfileLbl3{
+	padding-top:25px;
+	padding-bottom:10px;
+	color:#555555;
+	font-size:24px;
+}
+
+.homeProfileLbl2{
+	color:#111111;
+	font-size:36px;	
+	font-weight:bold;
+	padding-bottom:15px;
+}
+
+.homeProfileLink a{
+	border:2px solid #555;
+	padding:8px 12px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	color:#555;
+	font-size:24px;
+}
+/* Home Content Ends Here */
+.example-animation {
+	color: #FFF;
+	font-size: 60px;
+}
+
+.modal-header, .close {
+	background-color: #69D2E7;
+	color:white !important;
+	text-align: center;
+	font-size: 40px !important;
+}
+
+.modal-header h4{
+	font-size: 40px !important;
+}
+
+/* Sub Page Common Starts Here */
+.subPageMainContainer{
+	padding:30px 0px !important;
+}
+
+.subPageLeft{
+	border:1px solid #ccc;
+	padding:0px !important;
+	
+}
+
+.subPageHeadCont{
+	padding:20px;
+	background:#2a3944;
+	color:#fff;
+}
+
+.subPageHead{
+	padding:0px !important;
+}
+
+.subPageHead h1{
+	padding-top:0px !important;
+	margin-top:0px !important;
+}
+
+.subPageBread{
+	padding:0px !important;
+}
+
+.subPageBread, .subPageBread a{
+	color:#a7b7c3;
+}
+
+.subPageMainCont{
+	padding:20px !important;
+	overflow:auto;
+}
+
+.subPageRight{
+	border:1px solid #ccc;
+}
+
+.subPageRightHeadCont{
+	padding:10px 20px;
+	background:#fa6900;
+	color:#fff;
+}
+
+.subPageRightHead{
+	padding-top:0px !important;
+}
+
+.subPageRightHead h4{
+	padding:0px !important;
+	margin:0px !important;
+	color:#fff !important;
+}
+
+.subPageRightMainCont{
+	padding:20px;
+}
+
+.subPageRightMenu li{
+	border-bottom:1px solid #ddd;
+	padding-left:25px;
+	padding-bottom:5px;
+	margin-bottom:5px;
+	background:url(../images/rightPoint.png) no-repeat;
+}
+
+.subPageRightMenu li a{
+	color:#555;
+}
+
+.fancybox-custom .fancybox-skin {
+	box-shadow: 0 0 50px #222;
+}
+
+.galleryLine{
+	padding:0px !important;
+	overflow:auto;
+}
+
+.galleryThumb{
+	border:1px solid #eee;
+	padding:15px;
+}
+
+.subPageSubHead{
+
+	color:#0093ff;
+	padding-top:10px;
+}
+
+.ministryPointsUl li{
+	margin-left:20px;
+	padding-left:30px;
+	padding-bottom:10px;
+	background:url(../images/cross.png) no-repeat;
+}
+/* Sub Page Ends Here */
+
+/* Prayer Request Starts Here */
+.prayerReqLbl{
+	text-align:left !important;
+	font-weight:Normal !important;
+}
+
+.rightAddressCont{
+	padding:20px;
+	background:#23b1cd;
+}
+
+.rightCallUsCont{
+	padding:20px;
+	background:#39c5e1;
+}
+
+.rightEmailIdsCont{
+	padding:20px;
+	background:#69d2e7;
+}
+
+.subPageRightNoBorder{
+	padding:0px !important;
+}
+
+.rightsSubPageHead{
+	font-size:24px;
+	color:#fff;
+	padding-bottom:10px;
+	margin-bottom:10px;
+	border-bottom:1px solid #b4f3ff;
+}
+
+.rightsSubPageSmlHead{
+	font-size:16px;
+	padding-bottom:5px;
+	padding-top:15px;
+}
+
+.rightsSubPageLbl{
+
+}
+/* Prayer Request Ends Here */
+
+/* Audio Prayer Starts Here */
+.audioPrayerResTopLine{
+	padding:0px;
+	padding-bottom:10px;
+	border-bottom:1px solid #ddd;
+}
+
+.audioPrayerImg{
+	padding-left:0px;
+}
+
+.audioPrayerImg img{
+	width:100%;
+}
+
+.audioPrayerDet{
+	font-size:18px;
+	padding-top:10px !important;
+}
+
+.audioPrayerResLine{
+	padding:10px 0px;
+	border-bottom:1px solid #ddd;
+}
+
+.audioPrayerName{
+	padding-left:10px !important;
+}
+/* Audio Prayer Ends Here */
+
+/* E-Magazine Starts Here */
+.magazineThumb{
+	border-right:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	padding:20px;
+}
+
+.magazineMonth{
+	padding-left:0px !important;
+	margin-left:0px !important;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-bottom:5px;
+	border-bottom:1px solid #ccc;
+	text-align:center;
+	font-size:16px;
+	background:#eee;
+	color:#111;
+	
+}
+
+.magazineImg{
+	padding-left:0px !important;
+	margin-left:0px !important;	
+}
+
+.magazineImg img{
+	width:100%;
+}
+
+.magazineLink{
+	padding-left:0px !important;
+	margin-left:0px !important;
+	padding-top:10px;
+	margin-top:10px;
+	border-top:1px solid #ccc;
+	text-align:center;
+	font-size:16px;
+}
+/* E-Magazine Ends Here */
+
+/* Blessing Plans Starts Here */
+.blessingPlansAtt{
+	background:#fa9090 !important;
+	border:1px solid #ff0000;
+	
+}
+/* Blessing Plans Ends Here */
+
+/* Websites Starts Here */
+.websitesLeft{
+	padding:1px !important;
+	border:1px solid #eee;
+	border-top:1px solid #ccc;
+}
+
+.websiteThumb{
+	border-right:1px solid #ddd;
+	border-top:1px solid #ddd;
+	padding:20px;
+}
+
+.websitesRight{
+}
+
+.websiteTitle{
+	color:#111;
+	font-size:16px;
+	padding-bottom:5px;
+}
+
+.websiteDesc{
+	padding-bottom:10px;
+}
+
+.websiteVisit{
+
+}
+
+.websiteLine{
+	padding:0px !important;
+}
+/* Websites Ends Here */
+
+/* Promise Cards Starts Here */
+.promiseCardThumb{
+	border-right:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	padding:20px;
+}
+
+.promiseCardImg{
+	padding-left:0px !important;
+	margin-left:0px !important;	
+}
+
+.promiseCardImg img{
+	width:100%;
+}
+
+.promiseCardLink{
+	padding-left:0px !important;
+	margin-left:0px !important;
+	padding-top:10px;
+	margin-top:10px;
+	border-top:1px solid #ccc;
+	font-size:50px !important;
+	text-align:center;
+}
+/* Promise Card Ends Here */
+
+/* Promise Cards Starts Here */
+.wallpaperThumb{
+	border-right:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	padding:20px;
+}
+
+.wallpaperImg{
+	padding-left:0px !important;
+	margin-left:0px !important;	
+}
+
+.wallpaperImg img{
+	width:100%;
+}
+
+.wallpaperLink{
+	padding-left:0px !important;
+	margin-left:0px !important;
+	padding-top:10px;
+	margin-top:10px;
+	border-top:1px solid #ccc;
+	font-size:50px !important;
+	text-align:center;
+}
+/* Promise Card Ends Here */
+
+/* Promise Cards Starts Here */
+.screensaversThumb{
+	border-right:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	padding:20px;
+}
+
+.screensaversImg{
+	padding-left:0px !important;
+	margin-left:0px !important;	
+}
+
+.screensaversImg img{
+	width:100%;
+}
+
+.screensaversLink{
+	padding-left:0px !important;
+	margin-left:0px !important;
+	padding-top:10px;
+	margin-top:10px;
+	border-top:1px solid #ccc;
+	font-size:50px !important;
+	text-align:center;
+}
+/* Promise Card Ends Here */
+
+/* JR Fonts Starts Here */
+.jrFontsResLine{
+	padding:10px 0px;
+	border-bottom:1px solid #ddd;
+}
+
+.jrFontsName{
+	padding-left:10px !important;
+}
+/* JR Fonts Ends Here */
+
+/* Contact Us Starts Here */
+.google-maps {
+	position: relative;
+	padding-bottom: 26.25%;
+	padding-top: 30px;
+	height: 450px;
+	overflow: hidden;
+}
+.google-maps iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.contactUsContentCont{
+	border:1px solid #6cd3e7;
+	border-bottom:1px solid #3dafc6;
+	padding:20px;
+}
+
+.contactUsSubPageHead{
+	font-size:24px;
+	color:#3dafc6;
+	padding-bottom:10px;
+	margin-bottom:10px;
+	border-bottom:1px solid #b4f3ff;
+}
+
+.contactUsSubPageSmlHead{
+	font-size:16px;
+	padding-bottom:5px;
+	padding-top:15px;
+}
+
+.contactUsSubPageLbl{
+
+}
+
+.contactUsSubPageLink1{
+	margin-top:55px;
+}
+
+.contactUsContentLine{
+	padding:0px !important;
+	margin-bottom:20px;
+}
+
+/* Contact Us Ends Here */
+
+/* Photo Gallery List Starts Here */
+.photoGalleryList li{
+	margin-left:20px;
+	padding-bottom:10px;
+}
+
+.photoGalleryList li span{
+	font-size:20px;
+	color:#0d6bb4;
+}
+
+.photoGalleryList li a{
+	color:#555;
+}
+/* Photo Gallery List Ends Here */
+
+/* Guest Book Starts Here */
+.guestBookLine{
+	border:1px solid #6cd3e7;
+	margin-bottom:10px;
+	border-bottom:1px solid #3dafc6;
+	padding:0px !important;
+}
+
+.guestBookHead{
+	padding:10px;
+	border-bottom:1px solid #6cd3e7;
+	background:#bff4ff;
+	overflow:auto;
+}
+
+.guestBookCont{
+	padding:10px;
+}
+
+.guestBookHeadLeft{
+	padding:0px !important;
+}
+
+.guestBookHeadRight{
+	padding:0px !important;
+	text-align:right;
+}
+
+.guestBookSearch{
+	margin-bottom:10px;
+	padding:0px !important;
+}
+
+.guestBookSearchLeft{
+	padding:0px !important;
+}
+
+.guestBookSearchRight{
+	padding:0px !important;
+	text-align:right;
+}
+/* Guest Book Ends Here */
+
+/* Quiz Starts Here */
+.quizLine{
+	border:1px solid #6cd3e7;
+	margin-bottom:10px;
+	border-bottom:1px solid #3dafc6;
+	padding:0px !important;
+}
+
+.quizHead{
+	padding:10px;
+	border-bottom:1px solid #6cd3e7;
+	background:#bff4ff;
+	overflow:auto;
+}
+
+.quizCont{
+	padding:10px;
+}
+
+/* Quiz Ends Here */
+
+/* Quiz Result Starts Here */
+.quizPass{
+	color:#36d000;
+}
+
+.quizFail{
+	color:#d00000;
+}
+
+.quizPercentage{
+	color:#0058d0;
+}
+/* Quiz Result Starts Here */
+
+/* Quiz Winners List Starts Here */
+.quizWinnersResLine{
+	padding:10px 0px;
+	border-bottom:1px solid #ddd;
+}
+
+.quizWinnersName{
+	padding-left:10px !important;
+}
+
+.quizWinnersEmail{
+	padding-left:10px !important;
+}
+
+.quizWinnersCountry{
+	padding-left:10px !important;
+}
+
+.quizWinnersScore{
+	padding-left:10px !important;
+}
+
+.quizWinnersTime{
+	padding-left:10px !important;
+}
+/* Quiz Winners List Ends Here */
+
+
+/* Articles Starts Here */
+.articlesContent{
+
+}
+
+.articlesContentCont{
+	border-bottom:1px solid #ddd;
+	padding-bottom:20px;
+	margin-bottom:20px;
+}
+
+
+.articlesHead{
+	font-size:20px;
+	color:#2f6ad7;
+	text-transform:uppercase;
+}
+
+.articlesHead a{
+	color:#2f6ad7;
+}
+
+.articlesDate{
+	font-size:10px;
+	color:#888;
+}
+
+.articlesByMinis{
+	font-size:11px;
+	color:#555;
+}
+
+.articlesByMinisDetailed{
+	font-size:11px;
+	color:#555;
+	padding-bottom:10px;
+	margin-bottom:10px;
+	border-bottom:1px solid #ccc;
+}
+/* Articles Ends Here */
+
+/* Testimonial Start Here */
+.testimonialLine{
+	border:1px solid #6cd3e7;
+	margin-bottom:10px;
+	border-bottom:1px solid #3dafc6;
+	padding:0px !important;
+}
+
+.testimonialHead{
+	padding:10px 20px;
+	border-bottom:1px solid #6cd3e7;
+	background:#bff4ff;
+	overflow:auto;
+}
+
+.testimonialHeading{
+	margin-top:10px;
+	font-size:28px;
+	padding:0px !important;
+}
+
+.testimonialName{
+	margin-top:10px;
+	font-size:14px;
+	padding:0px !important;
+}
+
+.testimonialCont{
+	padding:10px 20px;
+	overflow:auto;
+}
+
+.testimonialLeft{
+	padding-left:0px !important;
+}
+
+.testimonialLeft img{
+	width:100%;
+}
+
+.testimonialRight{
+	padding-left:0px !important;
+}
+/* Testimonial Ends Here */
+
+/* Promise of the Day */
+.promiseImg{
+	margin-bottom:20px;
+}
+.promiseImg img{
+	width:100%;
+}
+/* Promise of the Day Starts Here */
+
+/* Monthly Message Starts Here */
+.messageMonthMohan{
+	padding:2px;
+	border:1px solid #ccc;
+}
+.messageMonthMohan img{
+	width:100%;
+}
+/* Monthly Message Ends Here */
+
+/* Evetns Starts Here */
+.eventsRegularDay{
+	color:#e02f00;
+}
+
+.eventsRegularPrayer{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.eventsRegularTime{
+	margin-bottom:10px;
+	padding-bottom:10px;
+	border-bottom:1px solid #ccc;
+}
+
+.eventsRegularPlace{
+
+}
+
+.eventsMainLine{
+	border:1px solid #6cd3e7;
+	margin-bottom:10px;
+	border-bottom:1px solid #3dafc6;
+	padding:10px !important;
+}
+
+.eventsMainLeft{
+	background:#004957;
+	padding:5px 15px 15px 15px;
+	color:#fff;
+	border-top:5px solid #e35f00;
+}
+
+.eventsMainLeftLbl{
+	font-size:11px;
+	padding-top:10px;
+	text-decoration:underline;
+}
+
+.eventsMainRight{
+	
+}
+
+.eventsMainRightTitle{
+	font-size:20px;
+	font-weight:bold;
+	margin-top:10px;
+}
+
+.eventsMainRightLbl{
+	padding-top:10px;
+	text-decoration:underline;
+	color:#555;
+}
+
+.eventsMainRightMessageBy{
+	font-size:14px;
+}
+
+.eventsMainRightPlace{
+	font-size:14px;
+}
+
+.eventsMainRightBtnLine{
+	padding-top:10px;
+}
+
+/* Events Ends Here */
+
+.homeMainContent a{
+    color:#333;
+}
+
+.homeMainContent a:hover{
+    text-decoration:none;
+    color:#000;
+}
+
+.homeHighlights2 a{
+    color:#fa6900;
+}
+
+.homeHighlights2 a:hover{
+    color:#b75904;
+    text-decoration:none;
+}
+.mainContentSubRow{
+    margin:0px !important;
+}
+.homeBannerVideo{
+    padding:20px 0px;
+    background:url(../images/bannerBg.jpg) no-repeat;
+    border-bottom:1px solid #667080;
+}
+/* Contact Us Starts Here */
+.google-maps {
+    position: relative;
+    padding-bottom: 26.25%;
+    padding-top: 30px;
+    height: 450px;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.contactUsContentCont{
+    border:1px solid #6cd3e7;
+    border-bottom:1px solid #3dafc6;
+    padding:20px;
+}
+
+.contactUsSubPageHead{
+    font-size:24px;
+    color:#3dafc6;
+    padding-bottom:10px;
+    margin-bottom:10px;
+    border-bottom:1px solid #b4f3ff;
+}
+
+.contactUsSubPageSmlHead{
+    font-size:16px;
+    padding-bottom:5px;
+    padding-top:15px;
+}
+
+.contactUsSubPageLbl{
+
+}
+
+.contactUsSubPageLink1{
+    margin-top: 50px;
+}
+
+.contactUsContentLine{
+    padding:0px !important;
+    margin-bottom:20px;
+}
+
+/* Contact Us Ends Here */
+
+/* Photo Gallery List Starts Here */
+.photoGalleryList li{
+    margin-left:20px;
+    padding-bottom:10px;
+}
+
+.photoGalleryList li span{
+    font-size:20px;
+    color:#0d6bb4;
+}
+
+.photoGalleryList li a{
+    color:#555;
+}
+/* Photo Gallery List Ends Here */
+
+/* Guest Book Starts Here */
+.guestBookLine{
+    border:1px solid #6cd3e7;
+    margin-bottom:10px;
+    border-bottom:1px solid #3dafc6;
+    padding:0px !important;
+}
+
+.guestBookHead{
+    padding:10px;
+    border-bottom:1px solid #6cd3e7;
+    background:#bff4ff;
+    overflow:auto;
+}
+
+.guestBookCont{
+    padding:10px;
+}
+
+.guestBookHeadLeft{
+    padding:0px !important;
+}
+
+.guestBookHeadRight{
+    padding:0px !important;
+    text-align:right;
+}
+
+.guestBookSearch{
+    margin-bottom:10px;
+    padding:0px !important;
+}
+
+.guestBookSearchLeft{
+    padding:0px !important;
+}
+
+.guestBookSearchRight{
+    padding:0px !important;
+    text-align:right;
+}
+/* Guest Book Ends Here */
+
+/* Quiz Starts Here */
+.quizLine{
+    border:1px solid #6cd3e7;
+    margin-bottom:10px;
+    border-bottom:1px solid #3dafc6;
+    padding:0px !important;
+}
+
+.quizHead{
+    padding:10px;
+    border-bottom:1px solid #6cd3e7;
+    background:#bff4ff;
+    overflow:auto;
+}
+
+.quizCont{
+    padding:10px;
+}
+
+/* Quiz Ends Here */
+
+/* Quiz Result Starts Here */
+.quizPass{
+    color:#36d000;
+}
+
+.quizFail{
+    color:#d00000;
+}
+
+.quizPercentage{
+    color:#0058d0;
+}
+/* Quiz Result Starts Here */
+
+/* Quiz Winners List Starts Here */
+.quizWinnersResLine{
+    padding:10px 0px;
+    border-bottom:1px solid #ddd;
+}
+
+.quizWinnersName{
+    padding-left:10px !important;
+}
+
+.quizWinnersEmail{
+    padding-left:10px !important;
+}
+
+.quizWinnersCountry{
+    padding-left:10px !important;
+}
+
+.quizWinnersScore{
+    padding-left:10px !important;
+}
+
+.quizWinnersTime{
+    padding-left:10px !important;
+}
+/* Quiz Winners List Ends Here */
+
+
+/* Articles Starts Here */
+.articlesContent{
+
+}
+
+.articlesContentCont{
+    border-bottom:1px solid #ddd;
+    padding-bottom:20px;
+    margin-bottom:20px;
+}
+
+
+.articlesHead{
+    font-size:20px;
+    color:#2f6ad7;
+    text-transform:uppercase;
+}
+
+.articlesHead a{
+    color:#2f6ad7;
+}
+
+.articlesDate{
+    font-size:10px;
+    color:#888;
+}
+
+.articlesByMinis{
+    font-size:11px;
+    color:#555;
+}
+
+.articlesByMinisDetailed{
+    font-size:11px;
+    color:#555;
+    padding-bottom:10px;
+    margin-bottom:10px;
+    border-bottom:1px solid #ccc;
+}
+/* Articles Ends Here */
+
+/* Testimonial Start Here */
+.testimonialLine{
+    border:1px solid #6cd3e7;
+    margin-bottom:10px;
+    border-bottom:1px solid #3dafc6;
+    padding:0px !important;
+}
+
+.testimonialHead{
+    padding:10px 20px;
+    border-bottom:1px solid #6cd3e7;
+    background:#bff4ff;
+    overflow:auto;
+}
+
+.testimonialHeading{
+    margin-top:10px;
+    font-size:28px;
+    padding:0px !important;
+}
+
+.testimonialName{
+    margin-top:10px;
+    font-size:14px;
+    padding:0px !important;
+}
+
+.testimonialCont{
+    padding:10px 20px;
+    overflow:auto;
+}
+
+.testimonialLeft{
+    padding-left:0px !important;
+}
+
+.testimonialLeft img{
+    width:100%;
+}
+
+.testimonialRight{
+    padding-left:0px !important;
+}
+/* Testimonial Ends Here */
+
+/* Promise of the Day */
+.promiseImg{
+    margin-bottom:20px;
+}
+.promiseImg img{
+    width:100%;
+}
+/* Promise of the Day Starts Here */
+
+/* Monthly Message Starts Here */
+.messageMonthMohan{
+    padding:2px;
+    border:1px solid #ccc;
+}
+.messageMonthMohan img{
+    width:100%;
+}
+/* Monthly Message Ends Here */
+
+/* Evetns Starts Here */
+.eventsRegularDay{
+    color:#e02f00;
+}
+
+.eventsRegularPrayer{
+    font-weight:bold;
+    font-size:16px;
+}
+
+.eventsRegularTime{
+    margin-bottom:10px;
+    padding-bottom:10px;
+    border-bottom:1px solid #ccc;
+}
+
+.eventsRegularPlace{
+
+}
+
+.eventsMainLine{
+    border:1px solid #6cd3e7;
+    margin-bottom:10px;
+    border-bottom:1px solid #3dafc6;
+    padding:10px !important;
+}
+
+.eventsMainLeft{
+    background:#004957;
+    padding:5px 15px 15px 15px;
+    color:#fff;
+    border-top:5px solid #e35f00;
+}
+
+.eventsMainLeftLbl{
+    font-size:11px;
+    padding-top:10px;
+    text-decoration:underline;
+}
+
+.eventsMainRight{
+    
+}
+
+.eventsMainRightTitle{
+    font-size:20px;
+    font-weight:bold;
+    margin-top:10px;
+}
+
+.eventsMainRightLbl{
+    padding-top:10px;
+    text-decoration:underline;
+    color:#555;
+}
+
+.eventsMainRightMessageBy{
+    font-size:14px;
+}
+
+.eventsMainRightPlace{
+    font-size:14px;
+}
+
+.eventsMainRightBtnLine{
+    padding-top:10px;
+}
+
+/* Events Ends Here */
+
+
+
+.mainContentSubRow{
+    margin:0px !important;
+}
+
+/* Branch Address Starts Here */
+.branchTab{
+    height:69px;
+    padding-top:0px !important;
+    border-bottom:1px solid #6cd3e7;
+    font-size:18px;
+    color:#28b2ce;
+}
+
+.branchTab .nav-tabs{
+    border:none !important;
+}
+
+.branchTab a{
+    padding-top:21px !important;
+    padding-bottom:21px !important;
+    border-radius: 0px !important;
+    border:0px !important;
+    border-right:1px solid #6ad3e8 !important;
+    border-left:1px solid #6ad3e8 !important;
+    border-top:1px solid #6ad3e8 !important;
+    color:#6ad3e8 !important;
+}
+
+.branchTab .active a{
+    background-color:#6ad3e8 !important;
+    color:#fff !important;
+}
+
+.branchContentLine{
+    padding:0px !important;
+    margin-top:20px;
+}
+
+.branchContentHead{
+    font-size:16px;
+    color:#3dafc6;
+    padding-bottom:10px;
+    margin-bottom:10px;
+    border-bottom:1px solid #b4f3ff;
+}
+
+.branchContentHeadOffice{
+    font-size:24px;
+    color:#3dafc6;
+    padding-bottom:10px;
+    margin-bottom:10px;
+    border-bottom:1px solid #b4f3ff;
+}
+/* Branch Address Ends Here */
+
+/* Banks Page Starts Here */
+.banksContentMainLine{
+    padding:0px !important;
+    margin-bottom:20px;
+}
+
+.banksContentLine{
+    padding:0px !important;
+    margin-top:20px;
+}
+
+.banksContentHead{
+    font-size:16px;
+    color:#3dafc6;
+    padding-bottom:10px;
+    margin-bottom:10px;
+    border-bottom:1px solid #b4f3ff;
+}
+
+/* Banks Page Ends Here */
+#qualitybar {
+  background-color: #000;
+  color: #fff;
+  /*display: none;*/
+}
+#qualitybar :hover {
+  /*animation-delay: 2s;
+  animation-direction: normal;
+  -webkit-animation-delay:2s;
+  -webkit-transition: opacity 1s ease-out;
+  opacity : 0;*/
+  background-color: #000;
+  color: #ff0046;
+  /*display: block;*/
+}
+
