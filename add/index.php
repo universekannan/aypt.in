@@ -16,6 +16,8 @@
 <div class="flipbook-viewport">
 	<div class="container">
 		<div class="flipbook">
+			<div style="background-image:url(pages/sivan.jpeg)"></div>
+			<div style="background-image:url(pages/sivan2.jpeg)"></div>
 			<div style="background-image:url(pages/1.jpg)"></div>
 			<div style="background-image:url(pages/2.jpg)"></div>
 			<div style="background-image:url(pages/3.jpg)"></div>
@@ -32,6 +34,8 @@
 			<div style="background-image:url(pages/14.jpg)"></div>
 			<div style="background-image:url(pages/15.jpg)"></div>
 			<div style="background-image:url(pages/16.jpg)"></div>
+			<div style="background-image:url(pages/sivan3.jpeg)"></div>
+			<div style="background-image:url(pages/sivan4.jpeg)"></div>
 		</div>
 	</div>
 </div>
